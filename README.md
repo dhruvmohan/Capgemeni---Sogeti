@@ -3,7 +3,7 @@ Automation Task Sogeti
 
    To run these tests on local machine
 
-   a. Pull the repo on local machine from Gitlab
+   a. Pull the repo on local machine from Github
 
    b. Open the 'Capgemeni - Sogeti' test folder in any IDE. I used VS Code.
 
