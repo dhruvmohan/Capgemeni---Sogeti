@@ -1,0 +1,19 @@
+{
+  "rows": [
+    {
+      "Country_row": "us",
+      "Postal_Code_row": 90210,
+      "Place_Names_row": "Beverly Hills"
+    },
+    {
+      "Country_row": "us",
+      "Postal_Code_row": 12345,
+      "Place_Names_row": "Schenectady"
+    },
+    {
+      "Country_row": "ca",
+      "Postal_Code_row": "B2R",
+      "Place_Names_row": "Waverley"
+    }
+  ]
+}
