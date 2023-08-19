@@ -138,6 +138,7 @@ describe('UI Tests', () => {
             name: link,
             message: response.status
         })
+        expect(response.status).to.be.eq(200, 'Verify that the response status code is 200')
       })
       })
     })
