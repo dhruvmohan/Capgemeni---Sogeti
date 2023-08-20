@@ -5,8 +5,8 @@ Automation Task Sogeti
 
    a. Clone the repo on local machine from Github.
 
-   b. Checkout to master branch using the command 'git checkout master' and Open the 'Capgemeni---Sogeti' test folder in any IDE. I used 
-      VS Code.
+   b. Open the 'Capgemeni---Sogeti' test folder in any IDE. I used VS Code and Checkout to master branch using the command 'git checkout 
+      master' command 
 
    c. First install and setup npm on local machine and initialize npm in this folder using terminal/ cmd prompt using 'npm init' command.
 
