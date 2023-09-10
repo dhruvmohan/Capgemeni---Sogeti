@@ -17,7 +17,7 @@ module.exports = defineConfig({
     baseUrl: "https://www.sogeti.com/",
     setupNodeEvents(on, config) {
       // implement node event listeners here
-      
+      /*
       on("task", {
         parseXlsx({ filePath }) {
           return new Promise((resolve, reject) => {
@@ -29,7 +29,7 @@ module.exports = defineConfig({
             }
           });
         },
-      });
+      });*/
 
       on("task", {
         readXlsx: readXlsx.read
